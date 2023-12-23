@@ -43,3 +43,7 @@ N
 .github/linters/checkstyle.xml,7/8/78eb02d079977f7b7f7c64c8a631f5937478ab24
 S
 #src/test/java/task_2/LoginTest.java,6/f/6f86d805b6ecab40635998c29421adc030d5d579
+A
+identifier.sqlite,5/7/57eb79cd3d4a5ae040525478ea4fe859974bbc3c
+;
+sqllite.iml,f/a/faa2b0201c0b97b899a2a064343aa2152355e6d6
