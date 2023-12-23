@@ -11,3 +11,23 @@ T
 $.github/src/main/java/task_1/ForUser,4/3/43f1ba7ff702b7a6a75ba7b5542b5daf0a382b47
 Y
 ).github/src/main/java/task_1/ForUser.java,8/a/8a3d17f8e07d02edbb2a91bc92b47a738a7f3185
+U
+%src/main/java/task_2/CountryName.java,2/6/26c4db1a36c26c09a8a49eb8ad5512fd746f0435
+S
+#src/main/java/task_2/UserLogin.java,6/3/63fcc4fc3459e91c5e8c6ef76b69d571d71df87b
+X
+(src/main/java/task_2/LoginingMethod.java,f/6/f67d3585456b2c1a4281afc19ee2c82693814a71
+V
+&src/main/java/task_2/SendMessages.java,8/5/85da9479bcca141a5892e59f08d33b5f2e027c45
+W
+'src/main/java/task_2/FacebookAdapt.java,7/3/73e99aad4f41ac7fcab4348a8c056efea64759c2
+V
+&src/main/java/task_2/UserFacebook.java,a/5/a58dff8e361efe29478767f4689ed66e4af85e64
+V
+&src/main/java/task_2/FacebookUser.java,c/8/c84fa12bd56c4d951ebb1cc929f99763a906f1b5
+U
+%src/main/java/task_2/TwiterAdapt.java,7/b/7bb2107b8ad74f158becb1e7a56c9b3025bf6896
+T
+$src/main/java/task_2/TwiterUser.java,c/d/cdc260eeac02d78cc4bce367d06ef3facce42fa6
+P
+ src/main/java/task_2/Client.java,5/6/56a13d4b03d2b99c689c20489d52a49ed8172551
