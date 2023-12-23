@@ -31,3 +31,13 @@ T
 $src/main/java/task_2/TwiterUser.java,c/d/cdc260eeac02d78cc4bce367d06ef3facce42fa6
 P
  src/main/java/task_2/Client.java,5/6/56a13d4b03d2b99c689c20489d52a49ed8172551
+W
+'src/main/java/task_3/Autharisation.java,0/b/0bc95812fd1c46b6e36c6e4ab9ccd83483c26ce3
+R
+"src/main/java/task_3/Database.java,1/e/1eb3c588f9664fc34ae0e88875a70edd75c0610e
+N
+src/main/java/task_3/Main.java,f/8/f8c51d0169b4f2929aeaf15218cf643fce15fd55
+W
+'src/main/java/task_3/ReportBuilder.java,e/3/e301f2de272d9cf55485a315e9655032d01a8ce4
+N
+.github/linters/checkstyle.xml,7/8/78eb02d079977f7b7f7c64c8a631f5937478ab24
