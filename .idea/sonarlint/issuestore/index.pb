@@ -1,16 +1,6 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-J
-.github/workflows/main.yml,c/7/c778226b6c4c0fb51cf7942c8ee1f3d9fc1249d0
-Z
-*.github/src/main/java/task_1/Database.java,3/5/358724104fd90c753c50d42d3c682b771d8998d6
-Z
-*.github/src/main/java/task_1/MainWork.java,6/1/6145b750f91cbd1e6b41fab38f38048fde327ff4
-T
-$.github/src/main/java/task_1/ForUser,4/3/43f1ba7ff702b7a6a75ba7b5542b5daf0a382b47
-Y
-).github/src/main/java/task_1/ForUser.java,8/a/8a3d17f8e07d02edbb2a91bc92b47a738a7f3185
 U
 %src/main/java/task_2/CountryName.java,2/6/26c4db1a36c26c09a8a49eb8ad5512fd746f0435
 S
@@ -21,8 +11,6 @@ V
 &src/main/java/task_2/SendMessages.java,8/5/85da9479bcca141a5892e59f08d33b5f2e027c45
 W
 'src/main/java/task_2/FacebookAdapt.java,7/3/73e99aad4f41ac7fcab4348a8c056efea64759c2
-V
-&src/main/java/task_2/UserFacebook.java,a/5/a58dff8e361efe29478767f4689ed66e4af85e64
 V
 &src/main/java/task_2/FacebookUser.java,c/8/c84fa12bd56c4d951ebb1cc929f99763a906f1b5
 U
@@ -39,11 +27,9 @@ N
 src/main/java/task_3/Main.java,f/8/f8c51d0169b4f2929aeaf15218cf643fce15fd55
 W
 'src/main/java/task_3/ReportBuilder.java,e/3/e301f2de272d9cf55485a315e9655032d01a8ce4
-N
-.github/linters/checkstyle.xml,7/8/78eb02d079977f7b7f7c64c8a631f5937478ab24
 S
 #src/test/java/task_2/LoginTest.java,6/f/6f86d805b6ecab40635998c29421adc030d5d579
-A
-identifier.sqlite,5/7/57eb79cd3d4a5ae040525478ea4fe859974bbc3c
-;
-sqllite.iml,f/a/faa2b0201c0b97b899a2a064343aa2152355e6d6
+H
+.github/workflows/ci.yml,8/9/899ce9c202bf7bb5480e72836c3edc773c9c4244
+G
+src/main/java/Main.java,e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10

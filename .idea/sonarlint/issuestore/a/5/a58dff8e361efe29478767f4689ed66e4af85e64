@@ -1,10 +1,0 @@
-
-¼
-java:S1598"™This file "UserFacebook.java" should be located in "task2" directory, not in "/Users/olagavriluk/Desktop/UCU/term_1/OOP/OOP_lab_10/src/main/java/task_2".(•ñ´ßùÿÿÿÿ8ÂŒë¸É1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ñ´ßùÿÿÿÿ8ÅŒë¸É1
-K
-java:S1068")Remove this unused "email" private field.(ª«Õìùÿÿÿÿ8äŒë¸É1
-Q
-java:S1068"/Remove this unused "userCountry" private field.(ŽùØŽûÿÿÿÿ8åŒë¸É1
-R
-java:S1068"5Remove this unused "getUserActiveTime" private field.(Ð‘‚Æ8åŒë¸É1
