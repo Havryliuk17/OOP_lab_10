@@ -41,3 +41,5 @@ W
 'src/main/java/task_3/ReportBuilder.java,e/3/e301f2de272d9cf55485a315e9655032d01a8ce4
 N
 .github/linters/checkstyle.xml,7/8/78eb02d079977f7b7f7c64c8a631f5937478ab24
+S
+#src/test/java/task_2/LoginTest.java,6/f/6f86d805b6ecab40635998c29421adc030d5d579
